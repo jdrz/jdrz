@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - <b>[Nessus Vulnerability Management Lab](https://github.com/jdrz/NessusVulnerabilityLab)</b>
+
+- <b>[Azure Cloud Detection Lab](https://github.com/jdrz/NessusVulnerabilityLab)</b>
   
 - <b>Metasploitable 2 Vulnerability Lab</b>
   - [Lab Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 - <b>Cybersecurity Detection & Monitoring Lab</b>
   - [Lab Link](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Azure Cloud Detection Lab</b>
-  - [Lab Link](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
  <h2> 🌱 Education and Certifications:</h2>
 
