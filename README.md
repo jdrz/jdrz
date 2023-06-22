@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
 - <b>Nessus Vulnerability Management</b>
-  - [Lab Link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab Link](https://github.com/jdrz/NessusVulnerabilityLab)
 - <b>Metasploitable 2 Vulnerability Lab</b>
   - [Lab Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 - <b>Cybersecurity Detection & Monitoring Lab</b>
