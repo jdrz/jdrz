@@ -7,9 +7,9 @@
 - <b>[Azure Cloud Detection Lab](https://github.com/jdrz/NessusVulnerabilityLab)</b>
   
 - <b>Metasploitable 2 Vulnerability Lab</b>
-  - [Lab Link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+  - [Lab Link]()</b></i>
 - <b>Cybersecurity Detection & Monitoring Lab</b>
-  - [Lab Link](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Lab Link]()
  
  <h2> 🌱 Education and Certifications:</h2>
 
@@ -20,22 +20,14 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Title of Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Title of Video](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Title of Video](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Title of Video](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Title of Video](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Title of Video]()
+- [Title of Video]()
+- [Title of Video]()
+- [Title of Video]()
+- [Title of Video]()
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/juan-diego-ramirez01/
 
 <!--
