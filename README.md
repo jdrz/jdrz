@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diego! <a href="https://www.linkedin.com/in/juan-diego-ramirez01/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ce1estia1/">YouTuber</a></h1>
+<h1>Hi, I'm Diego! <a href="https://www.linkedin.com/in/juan-diego-ramirez01/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
@@ -7,24 +7,17 @@
 - <b>[Azure Cloud Detection Lab](https://github.com/jdrz/NessusVulnerabilityLab)</b>
   
 - <b>Metasploitable 2 Vulnerability Lab</b>
-  - [Lab Link]()</b></i>
+
 - <b>Cybersecurity Detection & Monitoring Lab</b>
-  - [Lab Link]()
+
  
  <h2> 🌱 Education and Certifications:</h2>
 
-- <b>Bachelor of Science Cybersecurity and Information Assurance (Western Gobernors University)</b>
+- <b>Bachelor of Science Cybersecurity and Information Assurance (Western Governors University)</b>
 - <b>CompTia CySA+</b>
 - <b>CompTia Security+</b>
 - <b>CompTIA Network+</b>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Title of Video]()
-- [Title of Video]()
-- [Title of Video]()
-- [Title of Video]()
-- [Title of Video]()
 
 <h2> 🤳 Connect with me:</h2>
 
