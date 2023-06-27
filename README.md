@@ -21,6 +21,9 @@
 - <b>CompTIA Network+</b>
 
 
+<h2> 👯 Let's Connect!<a href="https://www.linkedin.com/in/juan-diego-ramirez01/">  LinkedIn Profile</a></h2>
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
