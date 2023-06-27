@@ -1,4 +1,6 @@
-<h1>Hi, I'm Diego! <a href="https://www.linkedin.com/in/juan-diego-ramirez01/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm J. Diego! <a href="https://www.linkedin.com/in/juan-diego-ramirez01/">Cybersecurity Professional</a></h1>
+
+<h2>Here are some of the labs I've completed, I will be uploading tutorials in the coming weeks</h2>  
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
@@ -19,9 +21,6 @@
 - <b>CompTIA Network+</b>
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/juan-diego-ramirez01/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
