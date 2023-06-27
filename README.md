@@ -1,6 +1,6 @@
 <h1>Hi, I'm J. Diego! <a href="https://www.linkedin.com/in/juan-diego-ramirez01/">Cybersecurity Professional</a></h1>
 
-<h2>Here are some of the labs I've completed, I will be uploading tutorials in the coming weeks</h2>  
+<h2>Here are some of the labs I have completed, I'll be uploading tutorials in the coming weeks</h2>  
 
 <h2>👨‍💻 Cybersecurity Projects and Labs:</h2>
 
