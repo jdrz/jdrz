@@ -8,9 +8,9 @@
 
 - <b>[Azure SOC and Honeynet Lab](https://github.com/jdrz/Azure_SOC_Honeynet)</b>
   
-- <b>Metasploitable 2 Vulnerability Lab</b>
+- <b>Metasploitable 2 Vulnerability Lab (Coming Soon)</b>
 
-- <b>Cybersecurity Detection & Monitoring Lab</b>
+- <b>Cybersecurity Detection & Monitoring Lab (Coming Soon)</b>
 
  
  <h2> 🌱 Education and Certifications:</h2>
